@@ -1,0 +1,6 @@
+Operations on file
+opening a file
+Deletiing a file
+writing a file
+reading a file
+closing a file
