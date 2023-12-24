@@ -13,33 +13,6 @@ for i in range(current,final+1):
 print("Leap year",future)
 
 
-# In[15]:
-
-
-list=[]
-for i in range(0,5):
-    n=int(input("Enter integers"))
-    list.append(n)
-print(list)
-list=[i for i in list if i>0]
-print("Positive number",list)
-                                                
-
-
-# In[1]:
-
-
-list=[]
-square=[]
-for i in range(0,5):
-    n=int(input("Enter integers"))
-    list.append(n)
-print(list)
-square=[i*i for i in list]
-print("square list of given list",square
-         
-         
-
 
 # 
 # 
