@@ -36,7 +36,7 @@ for i in range(0,5):
     list.append(n)
 print(list)
 square=[i*i for i in list]
-print("square list of given list",square)
+print("square list of given list",square
          
          
 
